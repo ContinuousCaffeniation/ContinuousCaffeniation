@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Vivian, living somewhere in Jylland (DK)
-- 👀 I’m interested in CI, builds and containers
-- 🌱 I’m currently learning docker in more detail
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Vivian, living somewhere in Jylland (DK)
+- I’m a forever nerd for reproducible builds
+- usually working on research projects in my private time
+- and on industrial code to earn money
+- with earned money, I am buying wet food for my cat Emma
 
 <!---
 ContinuousCaffeniation/ContinuousCaffeniation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
