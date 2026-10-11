@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ContinuousCaffeniation
+- 👋 Hi, I’m Vivian, living somewhere in Jylland (DK)
 - 👀 I’m interested in CI, builds and containers
 - 🌱 I’m currently learning docker in more detail
 - 💞️ I’m looking to collaborate on ...
